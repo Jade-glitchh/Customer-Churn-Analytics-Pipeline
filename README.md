@@ -31,7 +31,7 @@ Or run `07_full_pipeline_script.sql` to execute all steps at once.
 - `customer_churn_analytics.fact_customer_churn`
 
 
-
+```
 customer_churn_pipeline/
 │
 ├─ README.md
@@ -39,3 +39,4 @@ customer_churn_pipeline/
 │   └─ raw/                   
 ├─ sql/
 └── full_pipeline.sql
+```
